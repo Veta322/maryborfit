@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/maryborfit/static/css/main.a3850cb0.css",
+    "main.js": "/maryborfit/static/js/main.960e6ab0.js",
+    "static/js/787.d2890568.chunk.js": "/maryborfit/static/js/787.d2890568.chunk.js",
+    "static/media/2.jpg": "/maryborfit/static/media/2.a3efe83700a8f93d673d.jpg",
+    "static/media/3.jpg": "/maryborfit/static/media/3.118271b0497d534a31d0.jpg",
+    "static/media/main.png": "/maryborfit/static/media/main.8c8bd531c7169bbe3626.png",
+    "static/media/1.jpg": "/maryborfit/static/media/1.82090e89d8ee46b14f4b.jpg",
+    "static/media/telegram.png": "/maryborfit/static/media/telegram.1b722a57c2ce8ff2980a.png",
+    "static/media/instagram.png": "/maryborfit/static/media/instagram.79ea850107caae079257.png",
+    "static/media/vk.png": "/maryborfit/static/media/vk.33ed0b7af35a111c4705.png",
+    "static/media/left.png": "/maryborfit/static/media/left.a2ee411472ded07e388f.png",
+    "static/media/right.png": "/maryborfit/static/media/right.a047fe68b104ae4adae5.png",
+    "static/media/direction.png": "/maryborfit/static/media/direction.80bd2f1b53948607e6c6.png",
+    "static/media/youtube.png": "/maryborfit/static/media/youtube.4ad78c4004874a182b12.png",
+    "static/media/Tick_2.svg": "/maryborfit/static/media/Tick_2.6a4eeeea2bd4f2248db1.svg",
+    "index.html": "/maryborfit/index.html",
+    "main.a3850cb0.css.map": "/maryborfit/static/css/main.a3850cb0.css.map",
+    "main.960e6ab0.js.map": "/maryborfit/static/js/main.960e6ab0.js.map",
+    "787.d2890568.chunk.js.map": "/maryborfit/static/js/787.d2890568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3850cb0.css",
+    "static/js/main.960e6ab0.js"
+  ]
+}
