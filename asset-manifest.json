@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/maryborfit/static/css/main.a3850cb0.css",
-    "main.js": "/maryborfit/static/js/main.adda8c62.js",
+    "main.css": "/maryborfit/static/css/main.387d8702.css",
+    "main.js": "/maryborfit/static/js/main.8ee2e973.js",
     "static/js/787.d2890568.chunk.js": "/maryborfit/static/js/787.d2890568.chunk.js",
     "static/media/2.jpg": "/maryborfit/static/media/2.a3efe83700a8f93d673d.jpg",
     "static/media/3.jpg": "/maryborfit/static/media/3.118271b0497d534a31d0.jpg",
@@ -12,16 +12,15 @@
     "static/media/vk.png": "/maryborfit/static/media/vk.33ed0b7af35a111c4705.png",
     "static/media/left.png": "/maryborfit/static/media/left.a2ee411472ded07e388f.png",
     "static/media/right.png": "/maryborfit/static/media/right.a047fe68b104ae4adae5.png",
-    "static/media/direction.png": "/maryborfit/static/media/direction.80bd2f1b53948607e6c6.png",
     "static/media/youtube.png": "/maryborfit/static/media/youtube.4ad78c4004874a182b12.png",
     "static/media/Tick_2.svg": "/maryborfit/static/media/Tick_2.6a4eeeea2bd4f2248db1.svg",
     "index.html": "/maryborfit/index.html",
-    "main.a3850cb0.css.map": "/maryborfit/static/css/main.a3850cb0.css.map",
-    "main.adda8c62.js.map": "/maryborfit/static/js/main.adda8c62.js.map",
+    "main.387d8702.css.map": "/maryborfit/static/css/main.387d8702.css.map",
+    "main.8ee2e973.js.map": "/maryborfit/static/js/main.8ee2e973.js.map",
     "787.d2890568.chunk.js.map": "/maryborfit/static/js/787.d2890568.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3850cb0.css",
-    "static/js/main.adda8c62.js"
+    "static/css/main.387d8702.css",
+    "static/js/main.8ee2e973.js"
   ]
 }
